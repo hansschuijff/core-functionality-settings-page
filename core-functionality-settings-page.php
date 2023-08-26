@@ -1,6 +1,6 @@
 <?php
 /**
- * Core Functionality Plugin
+ * Core Functionality Settings Page
  *
  * @package DeWittePrins\CoreFunctionality;
  * @author  Hans Schuijff
@@ -8,10 +8,10 @@
  * @link    https://dewitteprins.nl
  *
  * @wordpress-plugin
- * Plugin Name:       Core Functionality Settings
+ * Plugin Name:       Core Functionality Settings Page
  * Plugin URI:        _
- * GitHub Plugin URI: hansschuijff/core-functionality
- * Description:       This contains all core functionality of this website to make the website theme independent. <strong>It should always be activated</strong>.
+ * GitHub Plugin URI: hansschuijff/core-functionality-settings-page
+ * Description:       This add a settings page to the core functionality plugin.
  * Requires at least: 6.1
  * Requires PHP:      7.0
  * Version:           0.1.0
